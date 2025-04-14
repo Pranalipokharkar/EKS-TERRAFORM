@@ -1,3 +1,4 @@
+```bash
 # EKS-Terraform
 Setup VM
 Install AWS CLI and configure it.
